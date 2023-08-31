@@ -8,3 +8,5 @@ console.log(novaFrase)
 let novaFrase1 = novaFrase.replace("azul", "laranja")
 console.log(novaFrase1)
 
+let novaFrase2 = frase.replace("mas não deixe o gato sair", "MAS NÃO DEIXE O GATO SAIR")
+console.log(novaFrase2)
